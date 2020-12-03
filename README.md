@@ -59,4 +59,4 @@ Extra Credit 30%
 
 # Important Dates:
 * The presentation date is Dec 9th, 2020, 4 PM to 6:50 PM.
-* The project is due on Dec 9th, 2020, at 11:59 PM
+* The project is due on Dec 9th, 2020, at 11:59 PM.
