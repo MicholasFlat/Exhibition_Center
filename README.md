@@ -1,10 +1,6 @@
 # Exhibition_Center
 Group Project for COP 4710
 
-# Project Resources
-https://docs.google.com/document/d/1V-SpP9c41oTBcAFAR-trO-L8Qe99WhIPWLH3QelSQqA/edit
-
-
 # COP 4710 Project
 Exhibition Center Event Website
 *(Fall 2020)*
